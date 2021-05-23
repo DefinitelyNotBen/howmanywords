@@ -4,6 +4,7 @@ Quick program to practice string manipulations in Go
 howMany() function will read a string given to it and return the number of words in a sentence
 
 Limits are as follows 
+ - Words are separated by white space
  - A words must only contain letters
     - 'wrfgewrgw' is a word
     - 'gvef$gs' is not a word
