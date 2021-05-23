@@ -1,7 +1,7 @@
 # howmanywords
 Quick program to practice string manipulations in Go
 
-howmany() function will read a string given to it and return the number of words in a sentence
+howMany() function will read a string given to it and return the number of words in a sentence
 
 Limits are as follows 
  - A words must only contain letters

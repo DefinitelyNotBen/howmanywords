@@ -8,8 +8,7 @@ import (
 var punct = []rune{'!', '?', '.', ','}
 
 func main() {
-	fmt.Println("Hello, playground")
-
+	// insert string into here
 	s := "How many strings-ret hello And then there were 5"
 
 	fmt.Print(howMany(s))
